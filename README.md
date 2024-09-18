@@ -15,4 +15,4 @@
 [carrd](https://cursed-speech.carrd.co) [atabook](https://starlessworld.atabook.org) [strawpage](https://starlessworld.straw.page) [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
 
 
-![](https://komarev.com/ghpvc/?username=radioactivefart&color=3c6e49&style=flat-square&label=ꔫ)
+![](https://komarev.com/ghpvc/?username=radioactivefart&color=47945c&style=flat-square&label=ꔫ)
