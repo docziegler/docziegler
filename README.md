@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[carrd](https://cursed-speech.carrd.co) [atabook](https://starlessworld.atabook.org) [strawpage](https://starlessworld.straw.page) [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
+[carrd](https://cursed-speech.carrd.co) [atabook](https://starpkmn.atabook.org) [strawpage](https://starpkmn.straw.page) [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
 
 
 ![](https://komarev.com/ghpvc/?username=radioactivefart&color=47945c&style=flat-square&label=ꔫ)
