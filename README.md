@@ -5,14 +5,11 @@
 <p align="left">
 <img src="https://files.catbox.moe/9m3hxt.png"
 "/>
-</p>
 <div align="center">
   
-</p>
-
 <div align="">
-  
-[carrd](https://cursed-speech.carrd.co) [atabook](https://starpkmn.atabook.org) [strawpage](https://starpkmn.straw.page) [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
+    <a href="https://starpkmn.atabook.org/"><img src="https://files.catbox.moe/dbteun.png"><a href="https://starpkmn.straw.page/"><img src="https://files.catbox.moe/zifm1k.png"><a href="https://cursed-speech.carrd.co/"><img src="https://files.catbox.moe/itnc6l.png">
 
 
-![](https://komarev.com/ghpvc/?username=radioactivefart&color=47945c&style=flat-square&label=ꔫ)
+![](https://komarev.com/ghpvc/?username=docziegler&color=C69F2B&style=flat-square&label=ꔫ)
+
