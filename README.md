@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/04nn98.png"
+<img src="https://files.catbox.moe/9auvi3.png"
 "/>
 </p>
 <div align="center">
