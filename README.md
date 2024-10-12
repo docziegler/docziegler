@@ -3,14 +3,14 @@
 </p>
 
 <p align="left">
-<img src="https://files.catbox.moe/9auvi3.png"
+<img src="https://files.catbox.moe/9m3hxt.png"
 "/>
 </p>
 <div align="center">
   
 </p>
 
-<div align="center">
+<div align="">
   
 [carrd](https://cursed-speech.carrd.co) [atabook](https://starpkmn.atabook.org) [strawpage](https://starpkmn.straw.page) [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
 
