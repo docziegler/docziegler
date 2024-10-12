@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/9fd58a223da5e52b91d47881cf65c269/c3f2bfed2dca505a-71/s1280x1920/8d02d53e1c85f858ce0e5168c3b2efd7fbeff53c.pnj"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://files.catbox.moe/9auvi3.png"
 "/>
 </p>
