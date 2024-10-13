@@ -8,7 +8,7 @@
 <div align="center">
   
 <div align="">
-    <a href="https://starpkmn.atabook.org/"><img src="https://files.catbox.moe/m8amnl.png"><a href="https://starpkmn.straw.page/"><img src="https://files.catbox.moe/u8t5h4.png"><a href="https://cursed-speech.carrd.co/"><img src="https://files.catbox.moe/5ohs4i.png">
+    <a href="https://starpkmn.straw.page/"><img src="https://files.catbox.moe/m8amnl.png"><a href="https://starpkmn.atabook.org/"><img src="https://files.catbox.moe/u8t5h4.png"><a href="https://cursed-speech.carrd.co/"><img src="https://files.catbox.moe/5ohs4i.png">
 
 
 ![](https://komarev.com/ghpvc/?username=docziegler&color=C69F2B&style=flat-square&label=ꔫ)
