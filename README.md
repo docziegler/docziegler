@@ -5,8 +5,7 @@
 <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/mg8zyb.gif" alt="Lugia"></a>
 <p align="center"
   
-<sup>**star⠀7teen⠀she/her** </sub></sup> <br>
-  <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀
+ <sup>**star⠀ʚɞ⠀she/her** </sub></sup>  <br>
+  <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀<br><br>
+![](https://komarev.com/ghpvc/?username=docziegler&label=𓆩ʚɞ𓆪&color=dfbb4c)
 <p align="center"> 
-![](https://komarev.com/ghpvc/?username=docziegler&color=C69F2B&style=flat-square&label=ʚɞ)
-
