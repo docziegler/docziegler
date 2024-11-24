@@ -8,6 +8,5 @@
 <sup>**star⠀7teen⠀she/her** </sub></sup> <br>
   <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀
 <p align="center"> 
-
 ![](https://komarev.com/ghpvc/?username=docziegler&color=C69F2B&style=flat-square&label=ʚɞ)
 
