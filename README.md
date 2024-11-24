@@ -5,9 +5,9 @@
 <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/mg8zyb.gif" alt="Lugia"></a>
 <p align="center"
   
-##### <p align="center">⠀she/her⠀ spanish⠀⠀esp/esp⠀⠀#1 ashe and mercy main
-##### <p align="center"> [guns](https://guns.lol/starpkmn)⠀ [atabook](https://ryuvi.atabook.org/)  [strawpage](https://starpkmn.straw.page)⠀⠀
-<p align="center"
-  
-![](https://komarev.com/ghpvc/?username=docziegler&color=C69F2B&style=flat-square&label=ꔫ)
+<sup>**star⠀7teen⠀she/her** </sub></sup> <br>
+  <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀
+<p align="center"> 
+
+![](https://komarev.com/ghpvc/?username=docziegler&color=C69F2B&style=flat-square&label=ʚɞ)
 
